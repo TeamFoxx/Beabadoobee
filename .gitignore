@@ -1,0 +1,9 @@
+.idea
+Coffee_Secrets
+CoffeeCogs
+main.py
+requirements.txt
+__pycache__/
+*.py[cod]
+*$py.class
+*.vscode
