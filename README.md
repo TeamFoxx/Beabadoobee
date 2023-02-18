@@ -6,4 +6,3 @@ In live operation, we implement and improve features according to the wishes of 
 > Join the Community Discord: https://anywhere-community.de
 
 Developed by the founders of the Anywhere Community
-![Anywhere_apple_banner](https://user-images.githubusercontent.com/106175905/219865660-456489c5-78eb-4f6a-8351-ba952b2cff0d.png)
