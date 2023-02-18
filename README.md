@@ -3,4 +3,6 @@ Hello you! Beabadoobee was launched in 2022 to offer communities around the worl
 We, the engineering team, are working around the clock to ensure a smooth experience for all of you.
 In live operation, we implement and improve features according to the wishes of the community.
 
+> Join the Community Discord: https://anywhere-community.de
+
 Developed by the founders of the Anywhere Community
